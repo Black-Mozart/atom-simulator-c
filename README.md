@@ -2,7 +2,7 @@
 
 A real-time 3D atomic visualizer built with C and [raylib](https://www.raylib.com/). It renders all 36 elements from Hydrogen to Krypton in three different visualization modes — classic Bohr orbits, quantum-mechanical probability clouds, and orbital shape (s/p/d/f) lobes — complete with an animated plasma nucleus, electron excitation/photon emission, and a live emission spectrum readout.
 
-Part of the [Black-Mozart Interactive Lab](https://black-mozart.github.io/) · [@saphlume_](https://instagram.com/saphlume_)
+Part of the [Black-Mozart Interactive Lab](https://black-mozart.github.io/) 
 
 ## Project Structure
 
